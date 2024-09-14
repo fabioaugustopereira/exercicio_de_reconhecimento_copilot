@@ -1,0 +1,1 @@
+# exercicio_de_reconhecimento_copilot
