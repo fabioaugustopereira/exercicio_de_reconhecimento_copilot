@@ -5,8 +5,7 @@ Foi pedido que a inteligência analisasse imagens e realizasse o reconhcecimento
 
 ### 1ª IMAGEM - POEMA INFANTIL
 Comando para análise
-<img src="exercicio_de_reconhecimento_copilot
-/prints/01-inicio_poema.jpg">
+<img src="prints/01-inicio_poema.png">
 
 Análise do reconhecimento dos caracteres na imagem
 <img src="/prints/01-inicio_poema.jpg">
