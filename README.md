@@ -8,61 +8,61 @@ Comando para análise
 <img src="prints/01-inicio_poema.png">
 
 Análise do reconhecimento dos caracteres na imagem
-<img src="/prints/01-inicio_poema.jpg">
+<img src="outputs/poema_infantil.png">
 
 ### 2ª IMAGEM - FUTEBOL
 Comando para análise
-<img src="/assets/prints/02-futebol.jpg">
+<img src="prints/02-futebol.png">
 
 Análise do reconhecimento dos caracteres na imagem
-<img src="/assets/prints/01-inicio_poema.jpg">
+<img src="outputs/times_futebol.jpg">
 
 Nesta imagem foi pedido uma análise mais detalhada do conteúdo, já que a análise incicial foi muito superficial.
-<img src="/assets/prints/03-detalhar.jpg">
+<img src="prints/03-detalhar.png">
 
 ### 3ª IMAGEM - VISÃO COMPUTACIONAL
 Comando para análise
-<img src="/assets/prints/04-visao.jpg">
+<img src="prints/04-visao.png">
 
 Análise do reconhecimento dos caracteres na imagem
-<img src="/assets/prints/01-inicio_poema.jpg">
+<img src="outputs/Visão.jpg">
 
 ## GERAÇÃO DE IMAGENS
 Como exercício também foi pedido que a Plataforma Microsoft Copilot gerasse imagens seguindo os comandos para aplicaçnao de diferentes estilos.
 
 ### 12 TRABALHOS DE HÉRCULES
-Comando para geraçNao de imagens seguindo o estilo desejado
-<img src="/assets/prints/05-hercules.jpg">
+Comando para geração de imagens seguindo o estilo desejado
+<img src="prints/05-hercules.png">
 
 Foi pedido também para a IA que gerasse análise referente ao pedido da imagem gerada, explicando um pouco sobre o tema proposto.
-<img src="/assets/prints/01-inicio_poema.jpg">
+<img src="analises_personas/hercules.png">
 
 ### RAMSES
-Comando para geraçNao de imagens seguindo o estilo desejado
-<img src="/assets/prints/06-ramses.jpg">
+Comando para geração de imagens seguindo o estilo desejado
+<img src="prints/06-ramses.png">
 
 Foi pedido também para a IA que gerasse análise referente ao pedido da imagem gerada, explicando um pouco sobre o tema proposto.
-<img src="/assets/prints/01-inicio_poema.jpg">
+<img src="analises_personas/ramses.png">
 
 ### HELENA DE TROIA
-Comando para geraçNao de imagens seguindo o estilo desejado
-<img src="/assets/prints/07-helena.jpg">
+Comando para geração de imagens seguindo o estilo desejado
+<img src="prints/07-helena.png">
 
-Foi pedido também para a IA que gerasse análise referente ao pedido da imagem gerada, explicando um pouco sobre o tema proposto.
-<img src="/assets/prints/01-inicio_poema.jpg">
 
 ### JESUS
 Comando para geraçNao de imagens seguindo o estilo desejado
-<img src="/assets/prints/08-jesus.jpg">
+<img src="prints/08-jesus.png">
 
 Foi pedido também para a IA que gerasse análise referente ao pedido da imagem gerada, explicando um pouco sobre o tema proposto.
-<img src="/assets/prints/01-inicio_poema.jpg">
+<img src="analises_personas/jesus.png">
 
 ### INTELIGÊNCIA ARTIFICIAL NO COTIDIANO
 Comando para geraçNao de imagens seguindo o estilo desejado
-<img src="/assets/prints/09-ia.jpg">
+<img src="prints/09-ia.png">
 
 Foi pedido também para a IA que gerasse análise referente ao pedido da imagem gerada, explicando um pouco sobre o tema proposto.
-<img src="/assets/prints/01-inicio_poema.jpg">
+<img src="analises_personas/IA_no_cotidiano.jpg">
 
+
+## CONCLUSÃO
 A ferramenta se comportou muito bem nas respostas aos comandos, assim é uma excelente opção para utilização na resolução de demandas que necessitem da solução.
